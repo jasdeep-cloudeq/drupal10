@@ -20,6 +20,7 @@ runtime:
         - sodium
         - apcu
         - blackfire
+        - newrelic
 
 # The relationships of the application with services or other applications.
 #
